@@ -16,7 +16,7 @@ const CTA = () => {
         Contact
       </Link>
       <Link
-        to="https://drive.google.com/file/d/1aKURmstKOqb-gtHK0Deoual1QdPMp7nv/view?usp=drive_link"
+        to="https://drive.google.com/file/d/18vu26Or0fXbRLKFT1d9YFI4IERmWIMFK/view?usp=sharing"
         target="_blank"
         className="btn"
       >
